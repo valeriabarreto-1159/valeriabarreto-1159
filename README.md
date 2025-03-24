@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 🌻
+I am a project manager and scrum enthusiast. I have been on several software teams over the years and have always been curious to dive a little deeper into the tech side, so here I am finally getting my fingers in some light things! I am looking forward to learning, failing, and hopefully succeeding too. 
 <!--
 **valeriabarreto-1159/valeriabarreto-1159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
